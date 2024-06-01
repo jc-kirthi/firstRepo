@@ -1,4 +1,4 @@
 # kickstart
-This project/folder
+First project/folder
 <br>
 Coder-KITTER
