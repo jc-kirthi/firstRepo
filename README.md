@@ -1,7 +1,6 @@
-# kickstart
-First project/folder
-<br>
-Coder-me
+Hello GITHUB
+First Repo!
+
 
 
 
